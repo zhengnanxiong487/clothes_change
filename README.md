@@ -1,2 +1,2 @@
 # clothes_change
-Used to store my workflow
+I'm thinking about how to improve the realism.
